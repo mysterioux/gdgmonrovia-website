@@ -1,21 +1,21 @@
 {
-    "FeatureEventName":"IWD'19 Monrovia",
-    "EventImage":"IWD.jpg",
+    "FeatureEventName":"Google Cloud Next '19 Extended - Monrovia",
+    "EventImage":"cloud.png",
     "EventDate":{
         "Date":"31",
-        "Month":"3",
+        "Month":"8",
         "Year":"2019"
     },
     "EventTime":{
-        "StartTime":"09:00 AM",
+        "StartTime":"10:00 AM",
         "EndTime":"04:30 PM"
     },
-    "EventVenue":"The Event Hall, Light Internatinal School, Sinkor, Monrovia",
-    "EventVenueMapLink":"https://goo.gl/maps/4Z8pminYsp42",
-    "_EventWebsite":"https://iwd.gdgjalandhar.com/",
-    "EventDescription":"International Women's Day (IWD) is marked on March 8th every year. In different regions, the focus of celebrations ranges from general respect and appreciation for women to a celebration of women's economic, political, and social achievements.",
-    "MeetupLink":"https://www.meetup.com/GDG-Jalandhar/events/253165595/",
-    "RegistrationLink":"https://docs.google.com/forms/d/e/1FAIpQLSciM-nL87uQd_it2ulou1mFv55aXqE9qSSnwL3No3fWhX8OzA/closedform",
-    "FBEventPageURL":"s"
+    "EventVenue":"Bluecrest College, Sinkor Monrovia",
+    "EventVenueMapLink":"https://www.google.pl/maps/place/%2C+Monrovia%2C+Liberia",
+    "EventWebsite":"",
+    "EventDescription":"Join us yet again for an exciting Google Cloud '19 Next Extended event, where we'll bring together cloud enthusiasts and the developer community to be a part of the Next '19 experience",
+    "MeetupLink":"https://www.meetup.com/gdgmonrovia/events/263656982/",
+    "RegistrationLink":"",
+    "FBEventPageURL":""
 }
 
