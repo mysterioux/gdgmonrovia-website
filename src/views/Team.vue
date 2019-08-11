@@ -38,11 +38,11 @@
 
 <script>
 import TeamDetails from '@/assets/data/chapterDetails.json'
-import coreTeam from '@/components/team/coreTeam'
+// import coreTeam from '@/components/team/coreTeam'
 import organizingTeam from '@/components/team/organizingTeam'
   export default {
     components: {
-      coreTeam,
+      // coreTeam,
       organizingTeam
     },
     data() {
