@@ -1,7 +1,7 @@
 [
     {
         "name":"Christian Emenike",
-        "designation":"GDG Lead [organizer]",
+        "designation":"GDG Lead",
         "twitter":"https://twitter.com/ccemenike",
         "linkedin":"https://www.linkedin.com/in/ccemenike",
         "github":"https://github.com/mysterioux",
@@ -11,11 +11,20 @@
     },
     {
         "name":"Jallah Sumbo",
-        "designation":"GDG Co-Lead [organizer]",
+        "designation":"GDG Co-Lead",
         "twitter":"https://twitter.com/iamjallah",
         "linkedin":"https://www.linkedin.com/in/jallah-sumbo-22b25113",
         "github":"https://github.com/Sumbo-1",
         "profileImage":"jallah.jpg",
         "website":"jallahsumbo.netlify.com"
+    },
+    {
+        "name":"Hartina V. Cleon",
+        "designation":"WTM Co-Lead",
+        "twitter":"",
+        "linkedin":"https://www.linkedin.com/in/hartina-cleon-937976129",
+        "github":"",
+        "profileImage":"hartina.jpg",
+        "website":""
     }
 ]
