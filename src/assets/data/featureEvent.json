@@ -1,5 +1,5 @@
 {
-    "FeatureEventName":"IWD'19 Jalandhar",
+    "FeatureEventName":"IWD'19 Monrovia",
     "EventImage":"IWD.jpg",
     "EventDate":{
         "Date":"31",
@@ -10,9 +10,9 @@
         "StartTime":"09:00 AM",
         "EndTime":"04:30 PM"
     },
-    "EventVenue":"Apeejay Institute of Management Technical Campus, Rama Mandi, Hoshiarpur Road, Jalandhar",
+    "EventVenue":"The Event Hall, Light Internatinal School, Sinkor, Monrovia",
     "EventVenueMapLink":"https://goo.gl/maps/4Z8pminYsp42",
-    "EventWebsite":"https://iwd.gdgjalandhar.com/",
+    "_EventWebsite":"https://iwd.gdgjalandhar.com/",
     "EventDescription":"International Women's Day (IWD) is marked on March 8th every year. In different regions, the focus of celebrations ranges from general respect and appreciation for women to a celebration of women's economic, political, and social achievements.",
     "MeetupLink":"https://www.meetup.com/GDG-Jalandhar/events/253165595/",
     "RegistrationLink":"https://docs.google.com/forms/d/e/1FAIpQLSciM-nL87uQd_it2ulou1mFv55aXqE9qSSnwL3No3fWhX8OzA/closedform",
