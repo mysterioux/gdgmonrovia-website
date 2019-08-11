@@ -1,7 +1,7 @@
 [
     {
         "name":"Christian Emenike",
-        "designation":"GDG Lead/Developer",
+        "designation":"GDG Lead [organizer]",
         "twitter":"https://twitter.com/ccemenike",
         "linkedin":"https://www.linkedin.com/in/ccemenike",
         "github":"https://github.com/mysterioux",
@@ -10,39 +10,12 @@
         "website":"http://www.ccemenike.me"
     },
     {
-        "name":"Name",
-        "designation":"Management",
-        "twitter":"",
-        "linkedin":"https://www.linkedin.com/",
-        "github":"",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Development",
-        "twitter":"https://twitter.com/",
-        "linkedin":"https://www.linkedin.com/",
-        "github":"https://www.github.com/",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
-        "designation":"Development",
-        "twitter":"https://twitter.com/",
-        "linkedin":"https://linkedin.com/",
-        "github":"https://github.com/",
-        "profileImage":"",
-        "website":"https://github.com"
-    },
-    {
-        "name":"Name",
-        "designation":"Development",
-        "twitter":"https://twitter.com/",
-        "linkedin":"",
-        "github":"https://github.com/",
-        "profileImage":"",
-        "website":""
+        "name":"Jallah Sumbo",
+        "designation":"GDG Co-Lead [organizer]",
+        "twitter":"https://twitter.com/iamjallah",
+        "linkedin":"https://www.linkedin.com/in/jallah-sumbo-22b25113",
+        "github":"https://github.com/Sumbo-1",
+        "profileImage":"jallah.jpg",
+        "website":"jallahsumbo.netlify.com"
     }
 ]
