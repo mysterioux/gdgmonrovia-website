@@ -62,7 +62,7 @@
                 </v-layout>
 
             </v-flex>
-
+<!-- 
             <v-flex xs12 md12 class="mt-3">
                 <p class="google-font my-2" style="font-size:110%">Template Partner</p>
 
@@ -112,7 +112,7 @@
                     </v-flex>
                 </v-layout>
 
-            </v-flex>
+            </v-flex> -->
         </v-layout>
     </v-container>
 </template>
