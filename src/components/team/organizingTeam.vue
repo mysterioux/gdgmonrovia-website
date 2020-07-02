@@ -15,7 +15,7 @@
                         avatar
                         
                     >
-                        <v-list-tile-avatar>
+                        <v-list-tile-avatar size="50">
                             <img :src="getImgUrl(item.profileImage)">
                         </v-list-tile-avatar>
 

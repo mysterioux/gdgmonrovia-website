@@ -9,13 +9,14 @@
         "website":""
     },
     {
-        "name":"Name",
-        "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
-        "website":""
+        "name":"Christian Emenike",
+        "designation":"GDG Lead",
+        "twitter":"https://twitter.com/ccemenike",
+        "linkedin":"https://www.linkedin.com/in/ccemenike",
+        "github":"https://github.com/mysterioux",
+        "facebook": "https://facebook.com/christol.emenike",
+        "profileImage":"chris.jpg",
+        "website":"http://www.ccemenike.me"
     },
     {
         "name":"Name",

@@ -14,7 +14,6 @@
         "designation":"GDG Co-Lead",
         "twitter":"https://twitter.com/iamjallah",
         "linkedin":"https://www.linkedin.com/in/jallah-sumbo-22b25113",
-         "linkedin":"https://www.linkedin.com/in/jallah-sumbo-22b25113",
         "facebook":"https://facebook.com/jallah.Sumbo",
         "profileImage":"jallah.png",
         "website":"jasdev.netlify.com"
@@ -26,6 +25,15 @@
         "linkedin":"https://www.linkedin.com/in/hartina-cleon-937976129",
         "github":"",
         "profileImage":"hartina.jpg",
+        "website":""
+    },
+    {
+        "name":"Alieu Jack Burphy",
+        "designation":"GDG Co-Lead",
+        "twitter":"",
+        "linkedin":"https://www.linkedin.com/in/alieu-jack-burphy-671797133",
+        "github":"",
+        "profileImage":"alieu.jpg",
         "website":""
     }
 ]

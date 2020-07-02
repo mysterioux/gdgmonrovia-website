@@ -1,8 +1,8 @@
 <template>
   <v-toolbar
     app
-    color="white"
-    height="55px"
+    dark=true
+    height="60px"
     scroll-off-screen
   >
     <v-toolbar-side-icon
@@ -20,7 +20,7 @@
         :key="i"
         :to="link.to"
         class="ml-0 google-font hidden-sm-and-down"
-        style="text-transform: capitalize;" 
+        style="text-transform: capitalize; color:#3684EB; font-weight:bolder" 
         flat
         @click="onClick($event, link)"
       >
